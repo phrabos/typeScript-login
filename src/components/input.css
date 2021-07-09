@@ -1,0 +1,7 @@
+.notValid {
+  background-color: tomato;
+}
+
+.valid {
+  background-color: white;
+}
